@@ -4,9 +4,4 @@ k = int(input())
 print(k // n)
 print(k % n)
 
-5
-a = int(input())
-b = a//60
-c = a % 60
 
-print(a, "мин - это", b, "час", c, "минут.")
