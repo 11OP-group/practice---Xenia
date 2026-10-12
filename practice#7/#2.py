@@ -1,3 +1,7 @@
+import random
+status=str(input('Введите статус вашего заказа '))
+days = random.randint(1,100)
+
 print('🌸'*11)
 print('🌸Статус вашего заказа🌸')
 print(('🌸'*11))
